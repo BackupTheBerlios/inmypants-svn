@@ -1,7 +1,7 @@
 #IMP core
 #
 
-set IMPRoot "scripts/imp"
+set IMPRoot "scripts/inmypants"
 set IMPModules "$IMPRoot/modules"
 set IMPPlugins "$IMPRoot/plugins"
 

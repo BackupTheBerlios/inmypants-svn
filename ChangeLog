@@ -5,6 +5,8 @@ CHANGELOG
     * Finished changing bMotion to IMP where relevent
     * Fixed the bug mentioned here: http://tinyurl.com/2wtwn
     * Added plugins/en/simple_sing.tcl
+    * Moved public version announcement from modules/events.tcl to
+      plugins/en/complex_questions.tcl, to prevent double output
 
 
   2004-03-11

@@ -30,7 +30,11 @@ proc IMP_plugin_complex_question { nick host handle channel text } {
     
   IMP_putloglev 3 * "Checking question for 'what'"
   ## What question targeted at me
-  if { [regexp -nocase "what('?s)?(.+)" $text matches s question] ||
+  if [regexp -nocase "${botnicks}:? what ver(sion )?(of )?(imp|inmypants|in my pants) are you (running|using)\\?" $text] {
+    global IMPVersion
+    IMPDoAction $channel $nick "I'm running IN MY PANTS $IMPVersion (http://inmypants.berlios.de/)"
+    return 1
+  } elseif { [regexp -nocase "what('?s)?(.+)" $text matches s question] ||
        [regexp -nocase "what('?s)? (.*)\\?" $text matches s question] } {
     set term ""
     if [regexp -nocase {what(\'?s| is| was) ([^ ]+)} $text matches ignore term] {

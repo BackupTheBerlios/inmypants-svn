@@ -304,13 +304,7 @@ proc IMP_event_main {nick host handle channel text} {
     }
   }
   ## /Reload config files
-
-  if [regexp -nocase "${botnicks}:? what ver(sion )?(of )?imp are you (running|using)\\?" $text] {
-    global IMPVersion
-    IMPDoAction $channel $nick "I'm running IMP $IMPVersion (http://imp.has.no.page)"
-    return 0
-  }
-
+  # IN MY PANTS public version announcement moved to plugins/en/complex_questions.tcl
   ## ignore channels that aren't in the randoms list ##
   if {[lsearch $IMPInfo(randomChannels) [string tolower $channel]] == -1} {
     return 0
