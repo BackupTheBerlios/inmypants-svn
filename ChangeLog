@@ -1,5 +1,10 @@
 CHANGELOG
 =========
+  2004-05-25
+  ==========
+    * Piss on [foo] now works.
+    * People can't say "piss on himself" etc
+
   2004-04-28
     * "Fixed" dildos (not very well, but they work)
     * Made the bot respond with an item from the "nos" abstracts

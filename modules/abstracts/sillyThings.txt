@@ -1,5 +1,4 @@
 a 7MB Flash movie
-a bath
 a beach
 a boob
 a bookshelf
@@ -23,7 +22,6 @@ a uk
 a real
 a manta
 a username
-some responses
 a murder
 a vesa
 a cost
@@ -36,26 +34,19 @@ a test
 a image
 a web
 a gpl
-a change
 a food
 a parallel
 some problems
 a password
 a scheduler
 a upkeep
-a gig
-a ucc
 a recent
-a formula
 a corridoor
 a first
-a warez
 a free
 some lines
-a prototype
 an ati
 a prm
-a rsa
 a member
 a competition
 a twimtbp
@@ -66,7 +57,6 @@ a four
 a back
 a piece
 a mu
-an auto
 a domain
 a ninary
 a vmware
@@ -78,26 +68,18 @@ a dead
 a reminder
 a more
 a html
-a poet
 a gay
 a leather
 a snk
 a nick
 a money
-a migration
 a monitor
 a sandwich
-a score
 a basic
 a proposed date
-a porn
 a repair
-a dump
 some reviews
-a nintendo
-a delay
 a pickup
-an unknown
 a joke
 a hamster
 a cover
@@ -115,7 +97,6 @@ a browser
 some ps
 a typical
 a zealotish
-a updated logo
 a resulting flamefest
 an idea
 a goal
@@ -126,30 +107,22 @@ a beta
 a what
 a phpmyadmin
 a delivery
-a wha
 a xhtml
 a couple
 a lump
 a king before
-some read
 some changes
 a it
 a union
-a impression
 a new
-a documentation
 a following information
 a gmx
-a symbolism
 an updated version
 a adsense
-a part
 a thumb
-a month
 some shops
 a stereotypical
 a wxwidgets
-a college
 some customers
 a moid
 a concurrent
@@ -157,12 +130,9 @@ a average
 an lxf
 a price
 a tic
-a grammar
 a sheep
 a winnar
-a fucking FACT
 a man
-a width
 a bastard
 a fucktard
 a eternal
@@ -172,7 +142,6 @@ some roads
 a gamestation
 a violation
 a alienware
-a fucking FILE
 a picture
 a kernel
 a error
@@ -190,16 +159,12 @@ a harlequin
 a classic
 a fuckup
 a win
-a dog
 a date
 a police
 a chain
 a choir
 an important
 a billion
-a last
-a ripcord
-a crowd
 some answers
 a norton
 a lift
@@ -207,15 +172,12 @@ a typing error
 a 1.44MB floppy disk
 a biscuit tin
 a bloke
-a boot
 a bottom
 a bunker
 a captain
 a car
 a chat
 a brother
-a building
-a button
 a Cappucino
 a case
 5 pints
@@ -223,7 +185,6 @@ a bagette
 a cassette
 a cd wallet
 a circus
-a way
 a movie
 a head
 a state
@@ -237,8 +198,6 @@ a dual
 some random
 a burnout
 a tech
-a fucker
-a wiki
 a sainsbury
 a weirdest
 a shopping for
@@ -251,8 +210,6 @@ a cat
 a cellar
 a chatterbot
 a company
-a compiler
-a can of coke
 a cassette deck
 a ceiling
 a champion
@@ -263,7 +220,6 @@ a tape
 a shoe
 a shortened list
 an action
-some mixers
 a master
 a point
 some oss
@@ -275,20 +231,16 @@ a white
 a programme
 some songs
 a aol
-some pentiums
 some darkness
 a ati
 a fucktonne
 an exhibitor
 a sony
-a smaller
 an excellent
-a bananaphone
 a builder
 a press
 a working model
 a best
-an hour
 an interview
 a other
 some as
@@ -301,14 +253,12 @@ a round
 a sun
 a stuff
 a autorun
-some rivets
 a mic
 a blowjob
 a countryside
 a delivering i
 a b
 a separate
-a fucking heart
 a sbin
 a softmod
 an nvida
@@ -318,7 +268,6 @@ a link
 a flgrx
 a fbsd
 some binaries
-a better
 a deal
 a dark
 a timing tonight
@@ -326,14 +275,10 @@ a external
 a bootsale
 is a decent soundcard (SB PCI128 isn't
 a soundcard
-a time
 a pair
-a anti
 a equivelant
-some following packages
 a falling actor
 a room
-a special
 a clue
 a min
 a plant
@@ -350,48 +295,31 @@ a laptop
 a tab
 a postal
 a trianbgle
-a cube
-a sec
-a vi
 a default
 a logo
 a fgl
-a full
 a eclipse
 a heart
 some legs
-a upgrade
 a finger
-a nipple
 a rain
 some boxes
 a school
-a connection
 some press
 a side
-some adorablebunnies
-a look
 a friend
-a command
 a speed of
 some moving blocks
 a hill
-a system
 a config
 a corrent
-a right
 some words
 a affiliation
-a login
 a rainbow
 a old
-a mockup
 a wallpaper
 a openbox
-a means
 a frame
-a nasty
-a third
 a exact
 a radio
 a great
@@ -404,7 +332,6 @@ a cult
 an incentive
 some shelves
 a trapest
-some limits
 a dvd
 a vpn
 a toilet
@@ -414,13 +341,10 @@ an irc
 some networks
 a xdcc
 a cxtld
-a nice
 a physics
 an smp
 a dir
-a sad
 a pipex
-a continuing high
 some whois
 a different
 an os
@@ -429,19 +353,15 @@ a serious
 an a
 a botnet
 a following error
-a fucking nightmare
 a trash
 a bestor
 a pot
 a version
 an evo
 a kind
-a fucking NIGHTMARE
 a community
-a very
 an arcane
 a bucketload
-an era
 a endyay
 a e
 a png
@@ -455,22 +375,17 @@ a alcohol
 a good A-Level grade (in the region of
 a enthusiasm
 a past
-a teacher
 a unit
 a lower
 a border
 a front
 a photo
 some alts
-a toolbar
 a staff
-a backlash
 a licence
 digital radio?
 a maze
 a roman
-some winners
-a suckiest
 some res
 a scottish
 a rise
@@ -485,12 +400,10 @@ a flood
 an i
 a fake
 a contrast
-a simple
 a monkey
 a difference
 a funny
 some fuckface
-a bigass
 a cpu
 a u
 a rip
@@ -498,18 +411,14 @@ a drive
 a power
 a light
 a blinkey
-a fair
 an atari
 a firmware
 a thousand
-a gf
 a severe
 a torty
 a kde frontend for gaim and
 a aqua
 some gnomers
-a massive
-a openoffice
 a frigging Linux
 a total
 a short
@@ -522,21 +431,16 @@ a length
 a kameo
 a chemistry
 a argument
-a dave
 a ssh
 a gb
 a name
 a mobo
 a lesson
-a la
 some challengers
 a lowest
-a million
 a frag
 a media
-a health
 a advent
-a buddy
 a cookiethievery
 a fucking Savage
 some greatness
@@ -550,7 +454,6 @@ a green
 a poitn
 a surprise
 a effect
-some stars
 an empty
 a faster
 a rpm
@@ -563,15 +466,10 @@ a cvs
 a mechanics
 a biggest
 a cisco
-an access
-a pci
-a xf
 a dpi
 a pr
 a botmatch
-a cron
 a mean
-some tables
 a drinks
 a negative
 a hat
@@ -588,17 +486,14 @@ an archive
 a utf
 a neat
 some aforementioned needs
-a powder
 a reliable
 a dentist
 a multi
 a ride
 a combination
-a slice
 a irony
 a shoulder
 a left
-a fucking bank
 a fucking TCP
 a gain
 a winsock
@@ -606,15 +501,12 @@ a mock
 a wrong
 a swf
 a floor
-a hong
 a clean
 a crappy
 a actual
 a street
 a privacy
 a london
-some success
-a philosophical
 a url
 a exclusive
 a star
@@ -624,7 +516,6 @@ a meeting of
 a genuine
 some pass
 a hypothermia
-a flash
 an interesting book
 an entertaining manner
 a working of
@@ -634,7 +525,6 @@ a technology
 some piss
 a furry
 a arcade
-12 year old black metal kids
 5 litres of Halfords 10W-40
 a 12-inch pianist
 a backup
@@ -644,7 +534,6 @@ a bog wallness
 a book
 a capital
 a clothes peg
-a fun
 a uscript
 a story
 a platform
@@ -667,19 +556,34 @@ a complete central heating system
 a 1979 Aston Martin
 a bank
 Aberystwyth
-a certain
 a bazooka
 a beast
 a big stick with nails in it
 a bike
-a coffee pot
 AA
 a bag
 a boiler
-a bottle
 a broken CD case
 a cab
 a camara
 a cartoon
 a channel
 a client
+a few
+a year
+some vids
+12 year old black metal kids
+a bed
+a blanket
+a boot
+a bottle
+a brownie
+a bullet
+a certain
+a bath
+a budget
+a building
+a button
+a can of coke
+a coffee pot
+a compiler
