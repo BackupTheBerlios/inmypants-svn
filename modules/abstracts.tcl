@@ -135,6 +135,7 @@ IMP_abstract_register "shocked"
 IMP_abstract_register "randomAways"
 IMP_abstract_register "silences"
 IMP_abstract_register "songs"
+IMP_abstract_register "answerDoYouHaves"
 
 set stolens {
   "Hey NO :(%|That's mine%|/sulks at %%"

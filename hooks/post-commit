@@ -1,0 +1,3 @@
+REPOS="$1"
+REV="$2"
+$REPOS/hooks/ciabot_svn.py "$REPOS" "$REV"&

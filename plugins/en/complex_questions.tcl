@@ -114,6 +114,14 @@ proc IMP_plugin_complex_question { nick host handle channel text } {
     return 1
   }
 
+  IMP_putloglev 3 * "Checking question for 'do you have'"
+  ## Do you have?
+  if { [regexp -nocase "$botnicks,?:? (do you have|d'ya have|have you got)" $text] ||
+       [regexp -nocase "(do you have|d'ya have|have you got) .* $botnicks ?\\?" $text] } {
+    IMP_plugin_complex_question_do_you_have $nick $channel $host
+    return 1
+  }
+
   IMP_putloglev 3 * "Checking question for some general questions"    
   # some other random responses, handled here rather than simple_general so as not to break other code  
     if [regexp -nocase  "^${botnicks}:?,? do(n'?t)? you (like|want|find .+ attractive|get horny|(find|think) .+ (is ?)horny|have|keep)" $text] {
@@ -233,6 +241,12 @@ proc IMP_plugin_complex_question_why { nick channel host } {
     IMP_putloglev 2 * "$nick why question"
   IMPDoAction $channel [IMPGetRealName $nick $host] "%VAR{answerWhys}"
   return 1
+}
+
+proc IMP_plugin_complex_question_do_you_have { nick channel host } {
+    IMP_putloglev 2 * "$nick do you have question"
+    IMPDoAction $channel [IMPGetRealName $nick $host] "%VAR{answerDoYouHaves}"
+    return 1
 }
 
 ## obsolete, it's been moved
