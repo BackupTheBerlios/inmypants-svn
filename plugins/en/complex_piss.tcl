@@ -9,11 +9,11 @@
 # in the modules directory.
 ###############################################################################
 
-IMP_plugin_add_complex "piss" "^%botnicks:?,? (wee|piss|pee|urinate|empty your bladder) on " 100 IMP_plugin_complex_piss "en"
+IMP_plugin_add_complex "piss" "^%botnicks:?,? (wee|piss|pee|urinate|empty your bladder) (on|in) " 100 IMP_plugin_complex_piss "en"
   
 proc IMP_plugin_complex_piss { nick host handle channel text } {
 	global botnicks
-	if [regexp -nocase "${botnicks}:?,? (please)?(piss|pee|urinate|empty your bladder) on (.+?)" $text ming ming1 ming2 ming3 who] {
+	if [regexp -nocase "${botnicks}:?,? (please)?(piss|pee|urinate|empty your bladder) (on|in) (.+?)" $text ming ming1 ming2 ming3 ming4 who] {
 	
 		if [regexp -nocase "(himself|herself|itself|themsel)" $who] {
 			set who $nick

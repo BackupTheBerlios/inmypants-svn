@@ -587,3 +587,8 @@ a button
 a can of coke
 a coffee pot
 a compiler
+a two
+a opposite
+a lot
+a current
+a vote
