@@ -135,6 +135,7 @@ IMP_abstract_register "shocked"
 IMP_abstract_register "randomAways"
 IMP_abstract_register "silences"
 IMP_abstract_register "songs"
+IMP_abstract_register "dontDoDrugs"
 IMP_abstract_register "answerDoYouHaves"
 
 set stolens {
@@ -366,9 +367,10 @@ set answerWheres {
   "down the local shop"
   "in the car"
   "at the shops"
-  "over thair%|*point*"
+  "over their%|*point*"
   "next to %ruser"
   "in bed with Madonna"
+  "IN MY PANTS!"
 }
 set answerWellbeing {
     "fine thanks"
