@@ -1,5 +1,9 @@
 CHANGELOG
 =========
+  2004-07-14
+  ==========
+    * irssi -> xchat
+
   2004-06-10
   ==========
     * Er, fixed that $VAR -> %VAR again

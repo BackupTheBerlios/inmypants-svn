@@ -137,4 +137,3 @@ You have something in your nose.
 this reminds me of my wedding night
 my zipper's stuck %VAR{unsmiles}
 is this going to be on the test?
-I can't reach this itch %VAR{unsmiles}
