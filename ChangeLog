@@ -1,5 +1,10 @@
 CHANGELOG
 =========
+  2004-04-25
+  ==========
+    * Got CIA working?
+    * Changed all instances of bmhelp to imphelp :P
+
   2004-04-03
   ==========
     * Converted everything to UNIX format.
