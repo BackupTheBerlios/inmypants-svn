@@ -68,7 +68,7 @@ set confuciousEnds {
   "jump to conslusion"
 }
 
-
+IMP_abstract_register "fears"
 IMP_abstract_register "ranjoins"
 
 IMP_abstract_register "bigranjoins"
@@ -1412,7 +1412,7 @@ IMP_abstract_batchadd "randomStuff" {
   "Don't touch that. It's dirty."
   "My underwear is too tight %VAR{unsmiles}"
   "Stop staring at the monkeys%colen"
-  "I can't reach this itch $VAR{unsmiles}"
+  "I can't reach this itch %VAR{unsmiles}"
   "That is the weirdest smell ever."
   "There's nothing sexier than %VAR{sillyThings}"
   "I feel like I'm about to vomit everywhere."

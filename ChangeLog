@@ -1,5 +1,12 @@
 CHANGELOG
 =========
+  2004-06-07
+  ==========
+    * NEW ABSTRACT: %VAR{fears}
+    * The bot will now cower in fear if it is told "Luigi30"
+    * Fixed a $VAR -> %VAR
+    * VERSION is now more detailed, with a date.
+
   2004-05-28
   ==========
     * Bots will just say no to suicide!
