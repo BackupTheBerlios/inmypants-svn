@@ -1,51 +1,32 @@
 12 year old black metal kids
 14 US dollars
-20 minutes till lunch
-99 bicycle clips
-a 1.44MB floppy disk
 a 1979 Aston Martin
 a 7MB Flash movie
 a badger
-a bagette
-a barbecue
 a bath
 a baton
 a bazooka
 a beach
 a beard
-a big stick with nails in it
 a bike
-a bird
-a biscuit tin
-a bog wallness
 a boob
 a bookshelf
 a bookstore
 a bottle
 a box
 a boy
-a bridge
-a broken CD case
 a bucket
-a budget
-a building
 a bus
-a button
 a camara
 a camera
 a candidate
 a can of diet coke (bleh)
 a capital
-a car
 a car park
-a cassette deck
-a cat
 a catflap
-a ceiling
 a cellar
 a cheque
 a Christian
-a circus
 a clock
 a clown
 a company
@@ -53,72 +34,49 @@ knife
 a bomb
 a bit
 a girl
-a shopping module
 some prats
 a small
 an email
-a review
 some inmypants
-a mp
 a mattb
 a knock
-some cards
 a fuck
 a negative
 a linux
-a official
-a one
 a wind
 a alsa
 a css
-a dildo
 a preview
 a disc
-a feat
 a in
 a nightschool
 a lurch
 a serial
-a
 a friend
 a uk
 a lot
 an amp
 some wireless
-a pc
 a pretty
 a post
 a real
 a few
 a manta
-a text
-a window
 a username
-a output
-a point
-a winner
-a original
 a bios
-a feature
-a minimalistic
 some responses
 a message
 a year
 a murder
 a lovometer
 a sky
-a governing body
-a different
 some sames
 a vesa
 a latest
 a cost
-a copy
 a tux
 a whole
-a poor
 a f
-a time
 a noise
 a fan
 a work
@@ -129,10 +87,7 @@ some windows
 some discs
 a temporary
 a bendy
-a custom
-a link
 an icon for
-a same
 an hour
 a little
 an admin
@@ -147,42 +102,27 @@ a moment
 an extra
 a image
 a web
-an sco
-a highest
-a macworld
 a gpl
-a guy
 a chan
 a beer
-a hobbit
 a jiffy
 a flat
-a biggest
 a change
 a food
-a special
 a parallel
 an epson
-a bulldozer
 some problems
-a layout
 a password
-a laziest
 a scheduler
-an away
-a hacking game
 a ciia
 a upkeep
-an error
 a problem
 a gig
 a ucc
 some associated DLLs
-a pr
 a slash
 a recent
 a compile
-some project
 a system
 a bug
 a fat
@@ -190,111 +130,69 @@ a czech
 a project
 an ircop
 a formula
-some numbers
 a corridoor
-a strange
-a great
-a prefect
-a band
-some principles
 some maths
-some ks
 a first
 a plain
 a closing date
 a desert
-a humanity
-a distro
 a build
-a sony
-a gp
 a warez
-a sam
 a shower
 a partition
 a decent
-a best
 a ati
 a seperate
 a sane
-help with the
 a final
 a free
 a current
 some lines
 a thunk
 a go
-some steps
 a extra
 a prototype
 a design
-a readme
-a wrong
-a device
 a bold
 a frequency
-a tech
-a humour
 an ati
 a firefox
 a prm
 a normal
 a install
 some winners
-a bet
 a reinstall
 a rsa
-a fingerprint
-an nvidia
 a nice
 a ut
 a standard
-a fglrx
-some brightness
-a soft
 a boa
-some apropos
-a treat
 a world
 a big
 a member
 a realm
-a main
 a competition
 a twimtbp
-some latets
 the
 some benchmarks
 a key
-a intarweb
-a mobo
 a locale
 a person
 a wank
 a taskbar
-a wrogn
 a week
 a extension
 a mozilla
 a postage
-a playlist
-some thumbnails
-a phone
 a use
-a restart
 a four
 a back
 a port
-a tinyurl
 a pint
-some progress
 a piece
 a gf
 a mu
-a reason
 an auto
-a human
-an apple
 a domain
 a ninary
 an age
@@ -302,10 +200,7 @@ a tonne
 a vmware
 some images
 a earlier
-a ncr
 a processor
-a cpi
-a xbrick
 a zip
 a roof
 a aag
@@ -313,80 +208,49 @@ a equation
 a weapon
 some fields
 a perl
-some screenshots
-a most
-a data
 a foreach
 a packshot
-some users
-a database
-a input
 a conversion
 an if
 a ammo
-a cgi
-a word
 a plural
 a dead
 a reminder
-some commands
 a more
 a html
 a poet
-an ebayer
 a gay
 some help
-a above
 a difference
-a multimeter
 a leather
 a shed then
 a high
-a e
 a west
-a recognised command
 a rate
 a majority
 an instance
-a easy
 a snk
-a stfu
-some cross
 a nick
-a afternoon
 some options
 a money
-an awful
 some nodes
-some ping always
 some buddies
-a plus
 a weaponstuff
 a while
 some companies
 a migration
 a monitor
-a day
 a registered trademark
 some maintainers
-some views
 some stuff
-a psu
 a sandwich
 a tower
 a top
-a filter
-a thing like
 a score
-a bloody
-a chinese
 a insert
-some weapons
-an shotgun
 a basic
 a enmap
 a base
-a hello
 a topic
 some sessions
 a proposed date
@@ -402,34 +266,25 @@ a nintendo
 a coolest
 a fedora
 a c
-a fucking OS
 a delay
 a pickup
 a framerate
 a overkill
-a repeat
 some penguins
-a penguin
 a fictitions
 a irc
 a level
-a crossover
 an unknown
 a joke
-a caffederm
 a usb
 a USB
 a hamster
 a cover
-a second
 a aagv
 a yay
 a cricket
 a lava
-a live
 a ini
-a bill
-some plus
 some existing mountpoints
 a variable
 a gun
@@ -448,70 +303,42 @@ a gui
 a relevant
 an interesting day
 a rest
-a codename
-a question
-some extra
-a form
 a function
-a easiest
 a title
-some stripslashes
 a checkbox
 a rev
 a wong
 a hard
 a intelli
-a warning on
 a browser
 some dns
-a windows
 a tron
-some maps
 some ps
 a two
 an industry
 a typical
 an exception
-a similar
-a possibility
-an aagv
 a games
 a zealotish
 a no
-a earthquake
-an interesting and
 a url
 a for
 a updated logo
 some results
-a minor
 a resulting flamefest
 a registration
 a immediate
-a subdomain
 a apache
 an idea
-a source
-a clue
 a path
-a club
 an odd
-a mysql
 a goal
-a match
 a an
-a sea
 a training course
-a opening sequence
 some assets
 a leviathian
-a raptor
-some hellbenders
-a garage
 a ion
 the vehicle recoded to HellBender
-a lathiathan
-an backwards
 a mention
 5 litres of Halfords 10W-40
 a 12-inch pianist
@@ -521,21 +348,14 @@ a bot
 a branch
 a brick
 a business
-a certain
-a champion
-a channel
 a chum
-a coffee pot
 a complete central heating system
 a beta
 a mail
-some css
 a what
 a utf
 a â
 a phpmyadmin
-some fucks
-a cadbury
 an order
 a delivery
 a wha
@@ -547,63 +367,42 @@ some jesus
 a dtd
 a next
 a xhtml
-some random
 a pokemon
 some voters
 an old
 an interactive
 a couple
 a ctf
-a number
-a console
 a fact
-a scroll
 a lump
 some press
 a king before
 a root
 some read
 a hm
-some variables
-some previews
 some changes
 a load
-some urls
 a fucking page
 a page
-a href
 a panel
 a bag
-a beast
 a better computer
-a brother
-a cd wallet
-a chatterbot
-a client
 a it
 a grand
-a slight
-a dentist
-a server
 a union
 a impression
 a door
-some allprevs
 an int
 a new
 a documentation
 a functions
-a v
 a newer
 a site
 a following information
-some united States
 a gmx
-a cheapest
 a good
 a arsenal
 an ultimatebb
-some links
 a edge
 a double
 a crap
@@ -611,62 +410,36 @@ a symbolism
 an updated version
 a adsense
 a amount
-a lowest
-a package
-a drop
-some stats
-a slow
 a visit
 a part
 a gameplay
-an online
-a mark
-a demo
 a thumb
-a mid
 a month
 some bills
-a x
 a fork
-some standards
-a trademark
 a webshite
-a open
-a play
 some shops
 a stereotypical
 a wxwidgets
 a screenshot
-some wxwidgets
 a dinner
 a college
 some customers
 some caps
-a batcar
 a non
-a definition
 an account
-an utility
 a euro
 a moid
-a weakest
 a preference
 a concurrent
 a average
 an lxf
-some feds
 a price
-a menstruating mountain
 a ping pong
 a largest
-a internet
-a aup
 a tic
 a horrible
 a actual
-an irc
-a dominant
-a lxf
 a dutch
 a grammar
 a terminal
@@ -676,50 +449,28 @@ an english
 a sheep
 a winnar
 a fucking FACT
-a laffo
-some rules
 a fucking FACE
 a row
 a driver
-a desktop
 a man
-some thing is
-an rfc
-a grey
-a stylesheet
-some js
-some files
 a width
-a tag
-some debian
 a debian
 some lyrics
 a saturday
 a fucking HTML
 a bastard
 a fucktard
-a javascript
-a moaning email
-a installation
-a replying only
 a eternal
-a performance
 a fucking agony
 some adds
-a animation
-a penny
 a dos
 a national
 a minute
 a dedicated server
-a fucking NIC
 a mac
 some roads
-a fun
 a gamestation
 a violation
-some twunt
-a much
 a intro
 a alienware
 a fucking FILE
@@ -728,7 +479,6 @@ a block
 a guestbook
 a picture
 a pic
-a remote
 a kernel
 some ones
 an rya
@@ -736,211 +486,137 @@ a guess
 a rya
 a virtual
 a tune
-some endless
-a shave
-a end
-a sailing club
 a addition
-a middle
-a pub
-a scabbiest
-a mailto
-a mistake
 a error
 a producer
-a past
 a dodgy
 a quote
 a newcastle
 a semi
-a toshiba
 a media
-a website
 a wimpy
-a rather
 some games
 a rabbit
 a trackball
 a screen
 some boss
-a b
-a pivot
 a tubgirl
-an invision
-a inital
 a infinite
-a rant
-some pes
 a ability
 a fuckign
-an excellent
-a vip
 a ninty
 a mkd
 a machine
 a licence
-some visitors
 a backlight
-some worms
 a nut
 a representative
 a video
-a multi
-a announcement
-a son
 an ipaq
 a area
 a child
 a network
 some rights
-an event
 a cached image
 a layer
 a german
 a senior
-a rival
 an answer
 a copyright
-a ipod
 an automatic
-a restraining order
 a attic
-a huge
 some ut
 a clan
 a tub
 a comedy
-a fucking CUPHOLDER
 a harlequin
 an anime
 a classic
-a argument
-a debate
 a fuckup
 a hub
-a head
-a networking code
 a win
-a lucky
-a spreadsheet
-a creme
 a dog
 a bee
-a music
 a plugin
-a savage
-some benefits
-an essay
 a date
-an extension
 a job
 a code
 a feenode
 new razor blades
 a police
-a moderation
-a karma
-1.5 pie
-5 pints
 AA
 a boiler
-a book
-a bottom
 a bullet
-a cab
-a carrot
-a cartoon
-a case
-a cassette
 a chain
 a choir
 a cinema
 a clothes peg
-an unopened beer
-a cartoon
 a strip
-a day
-a filter
-a artist
 a artist
 some graphics
-a time
-a problem
-a same
 a industry
-a time
-a shift
-a west
 a plan
 an important
-a v
 a game
-a game
-a few
-a other
 a depth
 an almost
-some of
 a st
-a pc
 a bbc
 a amiga
-a bbc
-a pc
 an eagle
-a amiga
 a billion
 a last
-some others
-a walk
 a train
 a proper
 a ripcord
-a u
 a crowd
 a name
-a fork
 a quiet
-a lot
-a qiet
-a other
-some lawsuits
-a case
-a psu
 some answers
-a second
-a tux
-a new
-some news
-a world
-a music
-a fan
-an i
-a window
-a problem
 a firewall
 a norton
 a functionality
-a same
-some interesting stories
-a network
-a mail
-a while
-a mail
-a goatse
-a latest
-a review
-some chaos
 a country
 a gnaa
 a south
-a train
 a lift
-a while
-a whole
 a quick
-a fact
-a a
-a email
 a typing error
-a minute
+20 minutes till lunch
+a 1.44MB floppy disk
+a backup
+a barbecue
+a beast
+Aberystwyth
+a biscuit tin
+a blanket
+a bloke
+a boot
+a bottom
+a brownie
+a budget
+a bunker
+a can of coke
+a captain
+a car
+a cartoon
+a champion
+a chat
+99 bicycle clips
+a bog wallness
+a book
+a bridge
+a brother
+a building
+a button
+a cab
+a Cappucino
+a case
+a certain
+5 pints
+a bagette
+a cassette
+a cassette deck
+a cd wallet
+a circus
+a compiler
