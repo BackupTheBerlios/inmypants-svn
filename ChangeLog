@@ -1,5 +1,10 @@
 CHANGELOG
 =========
+  2003-03-25
+  ==========
+    * Decided that IN MY PANTS will start at version 0.1.0 - changed
+      VERSIONS to 0.1.0 svn.
+
   2003-03-24
   ==========
     * modules/leet.tcl - the -> teh
