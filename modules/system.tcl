@@ -57,7 +57,7 @@ bind pub - !imp IMPAdminHandler2
 bind dcc m mood moodhandler
 bind dcc m imp* dcc_impcommand
 bind dcc m impadmin* IMP_dcc_command
-bind dcc m bmhelp IMP_dcc_help
+bind dcc m imphelp IMP_dcc_help
 
 foreach chan $IMPInfo(randomChannels) {
   set IMPLastEvent($chan) [clock seconds]
@@ -352,7 +352,7 @@ proc IMP_dcc_command { handle idx arg } {
   IMP_putloglev 2 * "IMP: admin command $arg from $handle"
   set info [IMP_plugin_find_admin $arg $IMPInfo(language)]
   if {$info == ""} {
-    putidx $idx "What? You need .bmhelp!"
+    putidx $idx "What? You need .help!"
     return 1
   }
 

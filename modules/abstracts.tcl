@@ -126,6 +126,7 @@ IMP_abstract_register "smokes"
 IMP_abstract_register "stonedRandomStuff"
 IMP_abstract_register "stonedAnnounce"
 IMP_abstract_register "goDowns"
+IMP_abstract_register "pissOns"
 
 IMP_abstract_register "stupidReplies"
 IMP_abstract_register "nos"
