@@ -1,5 +1,9 @@
 CHANGELOG
 =========
+  2004-06-10
+  ==========
+    * Er, fixed that $VAR -> %VAR again
+
   2004-06-07
   ==========
     * NEW ABSTRACT: %VAR{fears}
