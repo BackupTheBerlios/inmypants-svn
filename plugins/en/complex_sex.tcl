@@ -11,7 +11,7 @@
 # in the modules directory.
 ###############################################################################
 
-IMP_plugin_add_complex "sex-oral" "^%botnicks go down on " 100 "IMP_plugin_complex_sex_go_down_on" "en"
+IMP_plugin_add_complex "sex-oral" "^%botnicks:?,? go down on " 100 "IMP_plugin_complex_sex_go_down_on" "en"
 IMP_plugin_add_complex "sex-oral2" "^%botnicks eat (.+) out" 100 "IMP_plugin_complex_sex_go_down_on_2" "en"
 
 proc IMP_plugin_complex_sex_go_down_on { nick host handle channel text } {

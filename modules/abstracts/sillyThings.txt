@@ -1,11 +1,4 @@
 a 7MB Flash movie
-a beach
-a boob
-a bookshelf
-a bookstore
-a bus
-a camera
-a candidate
 a catflap
 a cheque
 a Christian
@@ -27,17 +20,13 @@ a vesa
 a cost
 a f
 a noise
-some discs
 an icon for
 an admin
 a test
 a image
 a web
 a gpl
-a food
-a parallel
 some problems
-a password
 a scheduler
 a upkeep
 a recent
@@ -46,34 +35,23 @@ a first
 a free
 some lines
 an ati
-a prm
-a member
 a competition
 a twimtbp
 some benchmarks
 a locale
-a use
 a four
 a back
-a piece
 a mu
 a domain
 a ninary
 a vmware
 a processor
 a perl
-an if
-a ammo
-a dead
 a reminder
 a more
-a html
-a gay
 a leather
 a snk
-a nick
 a money
-a monitor
 a sandwich
 a basic
 a proposed date
@@ -84,92 +62,63 @@ a joke
 a hamster
 a cover
 a aagv
-a yay
 a lava
 a thing clear
 a assessed practical
 a cosmology
 a list
-a function
 a checkbox
-a hard
 a browser
 some ps
-a typical
 a zealotish
 a resulting flamefest
 an idea
 a goal
-a branch
 a brick
-a business
 a beta
 a what
-a phpmyadmin
 a delivery
 a xhtml
-a couple
 a lump
 a king before
 some changes
 a it
 a union
-a new
 a following information
 a gmx
-an updated version
 a adsense
 a thumb
-some shops
 a stereotypical
 a wxwidgets
 some customers
-a moid
 a concurrent
 a average
 an lxf
 a price
-a tic
 a sheep
-a winnar
 a man
-a bastard
 a fucktard
 a eternal
-some adds
-a dedicated server
-some roads
 a gamestation
 a violation
 a alienware
 a picture
 a kernel
-a error
-a wimpy
 some games
-a trackball
 a screen
 a backlight
 a area
-a child
 a layer
-a senior
 an automatic
-a harlequin
 a classic
 a fuckup
 a win
 a date
 a police
-a chain
 a choir
-an important
 a billion
 some answers
-a norton
 a lift
-a typing error
-a 1.44MB floppy disk
 a biscuit tin
 a bloke
 a bottom
@@ -183,49 +132,31 @@ a case
 5 pints
 a bagette
 a cassette
-a cd wallet
 a circus
-a movie
 a head
-a state
 an s
 a law
 a controversial
 a boxed copy
 a beyond
 a same
-a dual
-some random
-a burnout
 a tech
 a sainsbury
 a weirdest
 a shopping for
-a day
 1.5 pie
-a bird
 a bot
 a carrot
 a cat
 a cellar
 a chatterbot
-a company
-a cassette deck
 a ceiling
 a champion
-a chum
 a nicer
-some buggers
-a tape
-a shoe
 a shortened list
 an action
-a master
 a point
 some oss
-a debian
-a skin
-some cvs
 a riddle
 a white
 a programme
@@ -233,62 +164,45 @@ some songs
 a aol
 some darkness
 a ati
-a fucktonne
 an exhibitor
-a sony
 an excellent
 a builder
-a press
 a working model
 a best
 an interview
 a other
 some as
-a variety
 a laugh
 some lossless
 a daytime
 on this
 a round
 a sun
-a stuff
 a autorun
-a mic
 a blowjob
-a countryside
 a delivering i
 a b
 a separate
 a sbin
 a softmod
-an nvida
 a correct
 a pbuffer
-a link
-a flgrx
 a fbsd
-some binaries
 a deal
 a dark
-a timing tonight
 a external
 a bootsale
 is a decent soundcard (SB PCI128 isn't
 a soundcard
 a pair
-a equivelant
 a falling actor
 a room
 a clue
 a min
 a plant
-an evangelism
 a registered user
-a endf
-a generic
 a tri
 some act
-a z
 a mouse
 a good
 a laptop
@@ -307,26 +221,18 @@ some boxes
 a school
 some press
 a side
-a friend
 a speed of
 some moving blocks
-a hill
 a config
-a corrent
 some words
 a affiliation
 a rainbow
 a old
-a wallpaper
 a openbox
-a frame
 a exact
-a radio
 a great
 some videos
-some links
 some shrooms
-a autumn
 a pentium
 a cult
 an incentive
@@ -337,21 +243,15 @@ a vpn
 a toilet
 some old
 a request
-an irc
-some networks
 a xdcc
 a cxtld
 a physics
 an smp
 a dir
 a pipex
-some whois
 a different
 an os
-a fish
-a serious
 an a
-a botnet
 a following error
 a trash
 a bestor
@@ -363,16 +263,12 @@ a community
 an arcane
 a bucketload
 a endyay
-a e
 a png
-a stylesheet
 a centre
 a td
 a gap
 a supplier
-some urls
 a alcohol
-a good A-Level grade (in the region of
 a enthusiasm
 a past
 a unit
@@ -385,69 +281,47 @@ a staff
 a licence
 digital radio?
 a maze
-a roman
 some res
 a scottish
 a rise
 a lightning flash
-some metaphors
 a castle
 a near
 a strong
 a str
 a stupid
-a flood
 an i
-a fake
 a contrast
 a monkey
 a difference
-a funny
-some fuckface
 a cpu
 a u
-a rip
 a drive
 a power
 a light
-a blinkey
 an atari
 a firmware
-a thousand
-a severe
 a torty
-a kde frontend for gaim and
 a aqua
 some gnomers
-a frigging Linux
 a total
 a short
 a logic
 a wheatstone
 a battery
-an ibm
-a face
-a length
 a kameo
 a chemistry
 a argument
-a ssh
 a gb
 a name
-a mobo
 a lesson
 some challengers
-a lowest
 a frag
 a media
-a advent
 a cookiethievery
 a fucking Savage
-some greatness
 a freezer
 a hardware
-an m
-a crap
 some mechanics
 a russian
 a green
@@ -455,27 +329,15 @@ a poitn
 a surprise
 a effect
 an empty
-a faster
 a rpm
 a digital
-some flintstones
 a previous
-some papers
 a morning paper
 a cvs
-a mechanics
 a biggest
-a cisco
-a dpi
-a pr
-a botmatch
-a mean
 a drinks
-a negative
-a hat
 some keys
 some us
-a prime
 a gentoo
 some features
 a british
@@ -483,18 +345,14 @@ one of those offers! Then I don't have to care about my
 a gzt
 a mdk
 an archive
-a utf
-a neat
 some aforementioned needs
 a reliable
-a dentist
 a multi
 a ride
 a combination
 a irony
 a shoulder
 a left
-a fucking TCP
 a gain
 a winsock
 a mock
@@ -504,52 +362,39 @@ a floor
 a clean
 a crappy
 a actual
-a street
 a privacy
 a london
 a url
 a exclusive
-a star
-a retraction
 a spontaneous
 a meeting of
 a genuine
-some pass
 a hypothermia
 an interesting book
 an entertaining manner
 a working of
 a typo
-a pubic
 a technology
 some piss
 a furry
 a arcade
-5 litres of Halfords 10W-40
 a 12-inch pianist
 a backup
-a badger
 a better computer
-a bog wallness
 a book
 a capital
 a clothes peg
 a uscript
 a story
-a platform
 some rersults
-a barbecue
 a baton
 a beard
-a box
 a boy
 a bridge
 a bucket
 a can of diet coke (bleh)
 a car park
 a cinema
-a clock
-a complete central heating system
 14 US dollars
 20 minutes till lunch
 99 bicycle clips
@@ -562,33 +407,203 @@ a big stick with nails in it
 a bike
 AA
 a bag
-a boiler
 a broken CD case
 a cab
 a camara
-a cartoon
-a channel
 a client
 a few
 a year
-some vids
 12 year old black metal kids
-a bed
 a blanket
-a boot
 a bottle
 a brownie
 a bullet
-a certain
-a bath
 a budget
-a building
 a button
 a can of coke
 a coffee pot
 a compiler
 a two
 a opposite
-a lot
-a current
 a vote
+a terminal
+a end
+a valid
+a pass
+a opportunity
+a shower
+5 litres of Halfords 10W-40
+a bird
+a boob
+a cartoon
+a cd wallet
+a certain
+a channel
+a company
+a tonne
+a booklet
+a limited edition
+a topic
+a latest
+some journals
+a arithmetic
+a bloat
+a swedish
+a doom
+an hour
+a show
+a go
+a psp
+some things
+a pretty
+a chance
+a bit
+a huge
+a thing linked
+a v
+a shoutbox
+some companies
+a ©
+an extra
+some perl
+a string var
+an ip
+a simple
+a splode
+a message
+a quick
+a fuck
+a thumbnail
+an attachment
+an old
+a p
+some filenames
+a mime
+some looks
+a site
+a whole
+a female
+a shitload
+a beer
+a webcam
+a one
+an interesting name
+a internet
+a luigi
+an identified user
+a normal
+a original
+a functional
+a diff
+a limiter
+some screenshots
+a slight
+a registration
+a microsoft
+a driver
+a radeon
+a friggin
+a duron
+an oem
+a board
+an xp
+a extra
+a gf
+a cheap
+a offer
+a fucking huge
+a mx
+a cash
+a bloatfish
+a third
+some floors
+a proper
+some screenies
+a most
+a ut
+a fucking confusing
+some options
+a module
+a router
+a time
+some suboptions
+a sub
+a help
+a y
+a review
+a output
+a microwave
+a big
+a damn
+a ruby
+a standard
+a minute
+a load
+a following in
+a legacy
+a ps
+a forkbomb
+an account
+a bootload
+a men
+a grub
+a root
+a bad
+a place
+some paths
+a trial
+a file
+some weaponclass
+a xxxyy
+a fbi
+a command
+some bits
+a dave
+a not
+a false
+a script
+a menu
+a deep
+a church
+a slackgod
+a fucking old
+a like
+some grafics
+some drivers
+a fglrx
+a direct
+an fgrlx
+a bunch
+a directory
+a executable
+a sample
+a sec
+a blue
+a attention
+some tos
+a demo
+a successful
+a trick
+a full
+a choice
+a pre
+a summer
+some computers
+a future
+some ones
+an autograph
+a matter
+some proboards
+a feature
+a 1.44MB floppy disk
+a beach
+a bog wallness
+a boiler
+a bookstore
+a box
+a bus
+a camera
+a candidate
+a cassette deck
+a chum
+a clock
