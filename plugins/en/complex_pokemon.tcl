@@ -46,8 +46,8 @@ proc IMP_plugin_complex_attack { nick host handle channel text } {
         }
         incr mood(electricity) -3
         IMPDoAction $channel $nick "pikaaa.... CH%REPEAT{3:6:U}"
-        if {$who == ""} { IMPDoAction $channel $nick "/fires [getHisHer] <notopic>thunder$actualAttack</notopic>!" } else {
-          IMPDoAction $channel $who "/fires [getHisHer] <notopic>thunder$actualAttack</notopic> at %%"
+        if {$who == ""} { IMPDoAction $channel $nick "/fires [getHisHer] thunder$actualAttack!" } else {
+          IMPDoAction $channel $who "/fires [getHisHer] thunder$actualAttack at %%"
         }
         return 1
       }

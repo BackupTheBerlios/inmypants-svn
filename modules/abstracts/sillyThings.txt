@@ -3,7 +3,6 @@ a linux
 a vesa
 a cost
 a noise
-a recent
 an ati
 a ninary
 a leather
@@ -20,7 +19,6 @@ a layer
 an automatic
 a car
 a brother
-an s
 a law
 a boxed copy
 a shopping for
@@ -31,13 +29,11 @@ a point
 some darkness
 a sun
 a separate
-a dark
 a falling actor
 a clue
 a registered user
 some act
 a heart
-some legs
 a finger
 a side
 some moving blocks
@@ -57,7 +53,6 @@ a cookiethievery
 a russian
 a morning paper
 a cvs
-some keys
 a gentoo
 some features
 some aforementioned needs
@@ -86,31 +81,25 @@ a message
 a webcam
 a one
 a internet
-a original
 a functional
 a limiter
 a driver
-a radeon
 a extra
 a cheap
 a ut
 a microwave
-a big
 a minute
 a forkbomb
 an account
 a bootload
 a file
-a direct
 a directory
 a sample
 a demo
-a while
 a requested URL
 a low
 some tuxes
 a right
-a sink
 a rest
 an html
 a dumbass
@@ -121,7 +110,6 @@ some infamous
 some codes
 a way
 a page
-a bnp
 a pro
 a switch
 a httpd
@@ -129,8 +117,6 @@ a apache
 a pot
 a try
 a transgaming product
-a quicken
-a ie
 a movie
 a wine
 a setup
@@ -138,7 +124,6 @@ a topc
 a shot
 a daty
 some layers
-a text
 a long
 a ubb
 some images
@@ -148,10 +133,8 @@ a top
 a paste
 a seperate
 a height
-a netscape
 a replacement
 a looksy
-a great
 a macosx
 some teams
 a feature
@@ -185,18 +168,14 @@ a candidate
 a bag
 a bath
 a carrot
-a bank
-a bird
 a bookstore
 a boy
 a brownie
 a bullet
-a ceiling
 a clown
 a complete central heating system
 a new
 a quality
-a party
 a power
 a gym
 some questions
@@ -228,7 +207,6 @@ a free
 an atari
 a connection
 a month
-a cgi
 a megahal
 some stuff
 a exam
@@ -259,13 +237,10 @@ a fucking time
 an idiotic
 a game
 a distro
-a ccl
 a array
 a push
-a library
 a book
 a camara
-a cartoon
 a cassette deck
 a bunker
 a camera
@@ -308,7 +283,6 @@ a news
 a modular
 a sony
 a scrollbar
-a mix
 a digital
 a bodgefix
 a perspective
@@ -321,12 +295,10 @@ an older
 a restart
 an evening chatter
 a onboard
-a module
 a summer
 a sort
 a wonder
 a commander
-a root
 a wait
 an xbox
 a doorstep
@@ -338,25 +310,18 @@ a crawl
 a deadline
 a sweet
 a incoming text
-some feedback
-a proper
 a regexp
 some itms
 an explicit
-a dynamism
 a toss
 a fosters
 a lesson
-some old
 a pakistani
 a samurai
 a machine
-a job
 a seizure
 a sluggish
-a mod
 a readme
-a cd
 a dvd
 a adsense
 a bitch
@@ -368,7 +333,6 @@ a conversation
 a garage
 a trial
 a aagv
-a language
 a kitchen
 a morning though
 some windows
@@ -384,9 +348,7 @@ a zip
 some css
 an int
 a nice
-a shoutbox
 a png
-a bastard
 a hemmorage
 an always
 a viable
@@ -402,15 +364,12 @@ a variable
 a pity
 some shouts
 a local
-an e
-a marshmellow
 a scar
 a beating I
 a face
 a of
 a comedy
 a as
-a calculator
 a level
 a core
 a official
@@ -422,11 +381,9 @@ a sketch
 a value
 a slight
 a hard
-a splode
 a bar
 Bloatfish's
 some shits
-an opi
 a jobb
 a job - but I don't want to join the Tesco%slashWaitrose employment like my
 an england
@@ -437,7 +394,6 @@ a above
 a realplayer
 a broadband
 a ip
-a stupid
 a three
 a director
 a known
@@ -457,17 +413,12 @@ a list
 a mozilla
 a serial
 a cmr
-a url
 a choice
-a teamspeak
-a sarcastic
 a couple
 a seagul
 a bsd
 a f
 a whaaaaaaambulance
-a wrong
-a corner
 a ps
 an updated galeon
 some details
@@ -478,17 +429,13 @@ a rumour
 a headset
 a trip
 a pr
-an error
 some more
 some recording was
 a pre
-a mail
 a fat
 a thing working
-a dying OS
 a hotel
 an aeroplane
-an invite
 a printing functionality
 a xbox
 a fishbowl
@@ -501,10 +448,8 @@ some addresses
 some whois
 a firewall
 a proxy
-a room
 a fair
 some cows
-a kernal
 a contrast
 some dishes
 a fucking SITE
@@ -529,7 +474,6 @@ a goat
 a special
 some xmms
 a manual
-a mm
 a framebuffer
 a clan
 an intranet
@@ -538,7 +482,6 @@ a fook
 a google
 a site
 a interesting part
-a rare
 a static
 an easy
 some scans
@@ -546,7 +489,6 @@ a porn
 some chatrooms
 a heathrow
 a credit
-some falicites
 a kitched with
 a ball
 a third
@@ -559,7 +501,6 @@ a intarweb
 a ace
 some maps
 a map
-a strange
 a interesting thing
 some driving games
 some cars
@@ -595,7 +536,6 @@ a sound
 a multiple
 a opera
 a steel
-a pillow
 a hill
 a cell
 a question
@@ -627,7 +567,6 @@ them
 a skill
 an ftpd
 a individual
-a sender
 a result
 a global
 a couch
@@ -641,14 +580,11 @@ some headlines
 a following on
 a debian
 a production
-some thing has
 a tesco
 a cpu
 a retards
 an sql
-a term
 Dune 2000 on the PocketPC
-a gba
 a follow
 a best
 a intro
@@ -669,7 +605,6 @@ a discussion
 a subject
 an ircd
 a shemale
-a table
 a latest
 a gltron
 an hour
@@ -692,11 +627,9 @@ a dog
 a real
 a fag
 a screen
-a classic
 an nfs
 a fleas
 a post
-a complete
 some random
 some bitrates
 some reason
@@ -704,9 +637,7 @@ a command
 an sb
 a mango
 an ess
-a morning working
 an a
-a to
 a little
 a clever
 some ps
@@ -722,7 +653,6 @@ a safe
 a appropriate
 a esa
 some pc
-a playstaiton
 an ogl
 a terrarium
 a widescreen
@@ -735,7 +665,6 @@ an no
 a meetup
 a tick
 a pending film
-a bonus
 a soap
 a firefox
 a cumbrian
@@ -743,14 +672,11 @@ an xterm
 a environment
 some problems
 a place
-a chan
 an ambulance
 a fuse
 a magic
 an image
-an italian
 a t
-a eastern
 a phonecall
 a french
 a stone
@@ -758,18 +684,14 @@ a first
 a pasta
 a scsi
 a street
-a disk
 an excercise
 a kvm
 some bollocks
 5 pints
 a 12-inch pianist
-a badger
-a bagette
 a barbecue
 a baton
 a beard
-a beast
 a bed
 a better computer
 a biscuit tin
@@ -785,7 +707,6 @@ a cab
 a can of coke
 a can of diet coke (bleh)
 a capital
-a captain
 a cassette
 a cat
 a catflap
@@ -807,4 +728,27 @@ a boob
 a boot
 a case
 a certain
-a company
+AA
+a boiler
+a bridge
+a bucket
+a business
+a Cappucino
+a champion
+a Christian
+a cinema
+a compiler
+a source
+a kernel
+a pii
+an american
+a roundabout
+some states
+an old
+a pii
+a p
+a annoying thing
+a line
+a full
+a flash
+a text

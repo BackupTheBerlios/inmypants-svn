@@ -548,7 +548,7 @@ set banzaiMidBets {
 }
 
 set wands {
-  "/waves %hisher <notopic>magic wand</notopic>"
+  "/waves %hisher magic wand"
   "Go go gadget magic wand!"
 }
 
@@ -806,7 +806,7 @@ set handcoffees {
   "/hands %% a coffee"
   "wake up%colen"
   "go to bed already"
-  "sorry, are we <notopic>keeping you up</notopic>?"
+  "sorry, are we keeping you up?"
   "you need a coffee"
   "/throws water over %% to wake them up"
   "/lends %% a pillow"
