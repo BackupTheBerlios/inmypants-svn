@@ -1,0 +1,170 @@
+bMotion CHANGELOG
+-----------------
+
+* = changed/fixed
++ = added
+- = removed
+
+*  Kevin           added some gollum code. Precious.
+*  Kevin           where question should now be rude to anyone the bot dislikes
+*  Kevin           wellbeing code now takes notice of whether the bot likes you or not
+*  James           changed the failsafe plugin to have (slightly) more intelligent responses
+*  James           updated light plugin to trigger correctly
++  James           added .bmadmin abstract delete <abstract> <index>
++  James           added function in extra/fact.tcl to make bMotion forget everything about an item
+
+v0.0.8
+
+*  Kevin           moved the handling of jms' (real) wellbeing code into an extra module, and referenced it from complex question
+*  James           fixed spelling error in name of onjoin plugin
+*  James           fixed onjoin plugin to use new abstracts system
+*  Kevin           moved some question handling into the complex question handler from other places so as not to break "how're you" with generic "how" questions
+*  James           changed CHANGELOG format now that other people are actively coding
+*  Shruuf          bMotion now supports !-channels as wells as #-channels
+*  James           hugging the bot will make it happier and hornier
+*  James           don't repeatedly wave back if repeatedly waved at
+*  James           moved newer activate plugin to end of plugins list because it was interrupting the startrek one
+*  James           set complex_readings to break out after triggering
+*  Greg            added more words to complex_scrap
+*  James           some improvements to learning new words
+*  James           stop output_pinky from modifying short lines
+*  James           fixed a couple of typos in abstracts
+*  James           hopefully fixed [ 662782 ] Occasional No Such User errors
+*  James           changed !bminfo to give better information, and only be available to +ov users
+*  James           fixed complex_trivia to skip output plugins
+*  James           bMotion now learns new away messages it sees people use
+
++  Kevin           added a "how're you?" handler
++  Kevin           added a "do you want/need" handler
++  James           added fact learning!
++  Kevin           added fact-fetching plugin
++  James           added new abstract management system and started changing over to it
++  James           added complex_correct plugin to correct the error "should|must of" to "have"
++  James           added some automatic diagnostics on times at 30 mins past the hour
++  James           added friendship drifting so you have to be nice to the bot to stay friends
++  James           added a plugin to catch uncaught actions on the bot and make it respond
+
+-  James           removed some of the mood-based random output because it doesn't fit with new code for now
+
+
+2003/08/03
+v0.0.7
+
+* fixed [ 680856 ] irc_nick_away plugin returns wrong values
+* fixed [ 729155 ] $nick error
+* fixed [ 726241 ] Techsupport does not use elections
+* tidied up code in trivia plugin
+* moved colen-chars handler to plugin
+* added [ 749777 ] specify time for shutting up
+* fixed long-standing "Tcl error [bMotion_event_action]: can't read "newnick": no such variable" error after 2am inspriation
+* track most recent complex plugin fired
+* complex_smilies refuses to fire twice in a row
+* fixed [ 772777 ] /action hands <bot> a <whatever> | bot replies via NOTICE
+*   `- no longer check for +I to take drugs of someone, let flood checking handle abuse
+* fixed [ 774721 ] botnicks check can break in courtmartial
+* fixed [ 782346 ] Can't read bMotionInfo(adminSilence,CHANNEL)
+* changed probability of the away plugin firing
+* diagnostic output goes to putlog not loglev d
+
++ added feature request [ 727005 ] courtmarital... with a kick. settings for it are in the complex_startrek plugin file
++ added output_pinky plugin
++ taught the trivia plugin to guess dates too
++ added support for %REPEAT in abstracts: %REPEAT{mincount:maxcount:text} will repeat text a random number of times in the given range
+*   `- updated some abstracts to use %REPEAT{} (e.g. "wh%REPEAT{3:6:e}")
++ added complex_woot
++ implemented [ 747502 ] Public Away Option (added new settings to settings file)
++ bMotion gains a jeffk output plugin...
++ ... and a pinky and the brain output plugin (enabled by default)
+
+- don't announce that !mood isn't available any more
+
+2003/04/13
+v0.0.6
+
++ added initial self-diagnostics (more to come)
++ now uses an irc event plugin to handle joins/parts/etc [simsea]
++ added 3rd party modules support (i.e. for API for plugins) 
++ added complex_activate plugin
++ added function to clean stuff like "(*&$(" off the end of a line
+*   `- dutchify is now a module called by the relavent plugins
+* nick-change handling done by irc event plugins [simsea]
+* join-handling done by irc event plugins [simsea]
+* away handling done by irc event (nick) plugins
+* updated question handler
+* fixed typos not giving corrections ("-space" etc)
+* new (less enthusiastic) nick washing code
+* fixed an abstract not being parsed (%himherself)
+* away-responses now use elections
+* away-responses shouldn't fire on both nick and /me announcements for the 
+  same person
+* fixed enabling/disabling output plugins breaking them until .rehash
+* added better behaviour to the hello plugin
+* various updates to the invader zim plugin, including reduced probabilities
+* complex_scrap got broken at some point, correct version re-added [matryx]
+* trigger a smile on "<botnick> :)"
+* fixed a typo for the dutch plugin definition
+* added a new typo
+* fixed the complex_sneeze abstracts
+- no more needI binds
+
+2003/01/12
+v0.0.5
+* optimised events.tcl a bit to be more efficient
+* switched the way bMotion represents its version to make it more consistent for
+  proper releases etc
+* adjusted the light plugin
+* moved question handler to plugin
+* moved pinches to a plugin
+* moved asl trigger to a plugin
+* tidied up code a bit
+- no longer tracking chanmood, because it was rubbish
+* smileys now handled by a plugin (new regexps included)
+* New routine to clean []s in nicks, should be more reliable
++ Clean nicks for all entry points, not just event_main
+* bMotion won't greet someone if nothing else has been said since it greeted 
+  last
++ bMotion looks for modules/settings_<botnet-nick>.tcl too (and loads it after
+  settings.tcl). You can use this to prevent overwriting your bot's settings
+  when installing a new version of the code, and also to run more than one
+  bot off the same installation of bMotion.
+  For this to work, you MUST define the botnet-nick setting in your eggdrop's
+  config file. Remember that it will be case sensitive, so if I have my botnet
+  nick set to "NoTopic" the file has to be settings_NoTopic.tcl
++ same as above for abstracts.tcl (if you want to augment an existing one,
+  use lappend not set (man lappend for more info)   
+
+
+2003/01/03
+v0.0.4
+
+* bMotion should only respond once when someone changes their nick AND
+  does a public away
+* Fixed a potential error with bMotionLastEvent checking
++ bMotion now supports nick-change plugins
+* Moved away-nickchange detection to plugins from legacy code
+* Fixed a problem with plugins not loading on some systems
++ bMotion now drops output if it's identical to the trigger text that generated it
+
+2002/12/12
+v0.0.3
+
++ bMotion filters out metacharacters from nicks by replacing with their handle
+  (if the user doesn't have a user record, it just removes the characters)
++ Put the flood checking code back in after cvs, er, ate it some time ago
+* %NUMBER{} works again
+- Removed some of the putlogs bMotion did during startup, because
+   a) they were spelled wrong
+   b) they weren't needed
+
+2002/11/28
+v0.0.2
+
+* Fixed a couple of show-stoppers
+
+2002/11/26
+v0.0.1
+
+Initial release on SourceForge.net -- bMotion goes officially public for the first time o_O
+
+Pre 2002/11/26: See CHANGELOG.old; bMotion was private for about two years.
+

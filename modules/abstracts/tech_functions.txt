@@ -1,0 +1,7 @@
+virus-scan
+validate
+manage
+install
+clean
+update
+audit

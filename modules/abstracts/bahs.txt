@@ -1,0 +1,10 @@
+dang
+blast
+i was close %VAR{unsmiles}
+%colen
+curse you %%
+blah
+bleh
+damnit
+S%REPEAT{1:4:O} CLOSE
+no fair, %ruser told me the wrong answer %VAR{unsmiles}

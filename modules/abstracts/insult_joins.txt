@@ -1,0 +1,4 @@
+%ruser: yeah, %% does suckOH HI %%!
+[%%] I'm a %VAR{PROM}%|%VAR{wrong_infoline}
+[%%] I love %ruser%|%VAR{wrong_infoline}
+[%%] Just call me %VAR{sillyThings}%|%VAR{wrong_infoline}

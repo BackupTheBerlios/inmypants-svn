@@ -1,0 +1,4 @@
+%BOT[i'm in a bare suit]
+%BOT[/looks at %pronoun toes]
+%BOT[wow that stuff's amazing... er, so i've heard, anyway]
+%BOT[i'll buy some!]

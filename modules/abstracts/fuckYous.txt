@@ -1,0 +1,4 @@
+stfu
+shut up, you %VAR{PROM}
+eh fuck you buddy
+lalala not listening

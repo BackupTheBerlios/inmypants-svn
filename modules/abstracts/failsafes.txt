@@ -1,0 +1,6 @@
+%VAR{rarrs}
+%REPEAT{3:7:m} %%
+%VAR{thanks}
+i do love a good %%ing
+/%%s %SETTING{complex:failsafe:last:nick:moo} back with %VAR{sillyThings}
+what

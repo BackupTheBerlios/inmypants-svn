@@ -1,0 +1,31 @@
+README for IN MY PANTS
+======================
+
+Thanks for trying IN MY PANTS (AKA "IMP" when it can't be confused with the
+REAL IMP and you don't feel like saying IN MY PANTS)!
+
+What's IMP?
+===========
+IMP is a set of scripts for the popular Eggdrop IRC bot, forked from bMotion.
+(http://bmotion.sourceforge.net/)
+
+IMP gives your Eggdrop bot a bit of a personality, and will probably make your
+regulars and newcomers alike look at it in an odd way. Hey, it'll probably even
+make YOU look at it in an odd way.
+
+Why fork?
+=========
+Basically I've had a few patches which I had to keep integrating to bMotion CVS
+when I wanted to upgrade. This got annoying after a while, as CVS isn't great
+at merging files automatically. Hence IMP was born.
+
+What are all of these "foo.bmotion" files?
+==========================================
+They're old files from bMotion - presumably I've not yet integrated the
+contained information into other files yet.
+
+So, where can I get IMP from?
+=============================
+IMP's homepage is http://inmypants.berlios.de/.
+
+LAST UPDATED: 2004-03-18

@@ -1,0 +1,10 @@
+%VAR{harhars}
+own3d
+PWND!
+yes!
+w%REPEAT{3:6:o}!
+go %me, go %me!
+whe%REPEAT{3:7:e}
+muhar
+winnar!
+in your face, %ruser!
