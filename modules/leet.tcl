@@ -58,6 +58,7 @@ proc makeLeet2 {line} {
   if [rand 2] { regsub -nocase -all "porn" $line "pr0n" line }
   if [rand 2] { regsub -nocase -all "elite" $line "l33t" line }
   if [rand 2] { regsub -nocase -all "your" $line "j00r" line }
+  if [rand 2] { regsub -nocase -all "the" $line "teh" line }
   if [rand 2] { regsub -nocase -all "fear" $line "ph33r" line }
   if [rand 2] { regsub -nocase -all "wins" $line "win0rs" line }
   if [rand 2] { regsub -nocase -all "you" $line "j00" line }
